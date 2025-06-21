@@ -1,0 +1,135 @@
+Q: What is 5 + 3?
+A: 8
+
+Q: What is the square of 4?
+A: 16
+
+Q: What is 15 divided by 3?
+A: 5
+
+Q: What is the area of a rectangle (6 × 4)?
+A: 24
+
+Q: What is the value of 3² + 4²?
+A: 25
+
+Q: Solve: (2 + 3) × (5 - 2)
+A: 15
+
+Q: What is the derivative of x²?
+A: 2x
+
+Q: Integrate: ∫(2x + 1) dx
+A: x² + x + C
+
+Q: Solve for x: 2x² + 3x - 2 = 0
+A: x = 0.5, x = -2
+
+Q: What planet is known as the Red Planet?
+A: Mars
+
+Q: What is H₂O commonly known as?
+A: Water
+
+Q: Which organ pumps blood?
+A: Heart
+
+Q: What gas do plants absorb for photosynthesis?
+A: Carbon dioxide
+
+Q: What are the three states of matter?
+A: Solid, liquid, gas
+
+Q: What part of the cell contains DNA?
+A: Nucleus
+
+Q: What is Newton’s third law of motion?
+A: For every action, there's an equal and opposite reaction.
+
+Q: What is the process of cell division called?
+A: Mitosis (or Meiosis, depending on type)
+
+Q: Define “half-life.”
+A: Time for a substance to reduce to half its quantity via decay.
+
+Q: Who was the first US President?
+A: George Washington
+
+Q: In which year did India gain independence?
+A: 1947
+
+Q: Who discovered America?
+A: Christopher Columbus
+
+Q: What caused World War I?
+A: Assassination of Archduke Franz Ferdinand
+
+Q: What was the Renaissance?
+A: A cultural revival in Europe (14th–17th century)
+
+Q: What were the terms of the Treaty of Versailles?
+A: Germany disarmed, paid reparations, lost land
+
+Q: Causes of the French Revolution?
+A: Inequality, taxation, Enlightenment ideas
+
+Q: Name three ancient civilizations.
+A: Mesopotamian, Egyptian, Indus Valley.
+
+Q: Who led India’s independence movement?
+A: Mahatma Gandhi
+
+Q: What is the capital of France?
+A: Paris
+
+Q: Which ocean is the largest?
+A: Pacific Ocean
+
+Q: Name a continent starting with A.
+A: Asia, Africa, Antarctica, Australia
+
+Q: What is the Tropic of Cancer?
+A: A major circle of latitude located at approx. 23.5°N
+
+Q: Which country has the most population?
+A: China (as of 2024)
+
+Q: What is a peninsula?
+A: Land surrounded by water on 3 sides
+
+Q: Explain the rain shadow effect.
+A: Dry area on leeward side of mountains
+
+Q: Name five major climate zones.
+A: Tropical, Dry, Temperate, Continental, Polar
+
+Q: What is plate tectonics theory?
+A: Earth's crust is broken into plates that move
+
+Q: What is a synonym for “happy”?
+A: Joyful
+
+Q: What is the plural of “child”?
+A: Children
+
+Q: Is “run” a verb or noun?
+A: Verb (also a noun depending on context)
+
+Q: What is an adjective?
+A: A word that describes a noun
+
+Q: Identify the subject in: "The dog barked."
+A: The dog
+
+Q: What is a metaphor?
+A: A comparison without using “like” or “as”
+
+Q: Define oxymoron with an example.
+A: A contradiction e.g., “deafening silence”
+
+Q: Difference between “affect” and “effect”?
+A: Affect = verb, Effect = noun
+
+Q: What is a gerund?
+A: A verb ending in -ing used as a noun
+
